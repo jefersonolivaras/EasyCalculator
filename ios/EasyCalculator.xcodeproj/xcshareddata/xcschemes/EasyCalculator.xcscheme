@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "EasyCalcBasic.app"
-               BlueprintName = "EasyCalcBasic"
-               ReferencedContainer = "container:EasyCalcBasic.xcodeproj">
+               BuildableName = "EasyCalculator.app"
+               BlueprintName = "EasyCalculator"
+               ReferencedContainer = "container:EasyCalculator.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "EasyCalcBasicTests.xctest"
-               BlueprintName = "EasyCalcBasicTests"
-               ReferencedContainer = "container:EasyCalcBasic.xcodeproj">
+               BuildableName = "EasyCalculatorTests.xctest"
+               BlueprintName = "EasyCalculatorTests"
+               ReferencedContainer = "container:EasyCalculator.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "EasyCalcBasic.app"
-            BlueprintName = "EasyCalcBasic"
-            ReferencedContainer = "container:EasyCalcBasic.xcodeproj">
+            BuildableName = "EasyCalculator.app"
+            BlueprintName = "EasyCalculator"
+            ReferencedContainer = "container:EasyCalculator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "EasyCalcBasic.app"
-            BlueprintName = "EasyCalcBasic"
-            ReferencedContainer = "container:EasyCalcBasic.xcodeproj">
+            BuildableName = "EasyCalculator.app"
+            BlueprintName = "EasyCalculator"
+            ReferencedContainer = "container:EasyCalculator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

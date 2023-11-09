@@ -1,4 +1,4 @@
-package com.easycalculadorabasic.jeferson;
+package com.calculadoraeasy.jeferson;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

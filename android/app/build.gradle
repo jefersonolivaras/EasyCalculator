@@ -10,9 +10,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.easycalculadorabasic.jeferson"
+    namespace "com.calculadoraeasy.jeferson"
     defaultConfig {
-        applicationId "com.easycalculadorabasic.jeferson"
+        applicationId "com.calculadoraeasy.jeferson"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
@@ -38,7 +38,7 @@ android {
 
     buildTypes {
         release {
-            signingConfig signingConfigs.release // Use a configuração de assinatura para o modo release
+            signingConfig signingConfigs.release
         }
     }
 }
